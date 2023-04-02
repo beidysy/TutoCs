@@ -1,0 +1,15 @@
+/Users/beidysy/Projects/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/beidysy/Projects/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/beidysy/Projects/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/beidysy/Projects/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/beidysy/Projects/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/beidysy/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/beidysy/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beidysy/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/beidysy/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/beidysy/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/beidysy/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/beidysy/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/beidysy/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/beidysy/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/beidysy/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
